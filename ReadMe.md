@@ -23,7 +23,7 @@
 
 <div><br></div>
 <h2 align="center">🌐 Socials: </h2>
-<div style="text-align: center;">
+<div align="center">
 
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Théophile#8449)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/th%C3%A9ophile-rouchet-5505511ba) 
@@ -36,7 +36,7 @@
 <h2 align="center">💻 Tech Stack: </h2>
 <div><br></div>
 
-<div style="text-align: center;">
+<div align="center">
 <div><br></div>
 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -60,7 +60,7 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 <div><br></div>
 
-<div style="text-align: center;">
+<div align="center">
 
   ![](https://github-readme-stats.vercel.app/api?username=Pouchey&theme=react&hide_border=true&include_all_commits=false&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Pouchey&theme=react&hide_border=true)
