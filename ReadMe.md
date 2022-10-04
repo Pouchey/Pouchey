@@ -1,11 +1,3 @@
-<style type="text/css">
-  body{
-    font-size: 12pt;
-  }
-  h3{
-    font-size: 16pt;
-  }
-</style>
 
 <div><br></div>
 <h1 align="center">
@@ -13,14 +5,14 @@
   <div><br></div>
 </h1>
 
-<h1 align="center"  >
+<h1 align="center" >
   <div><br></div>
   <img src=https://ci5.googleusercontent.com/proxy/bCbVnx984GO2JlCRCPLxcKLeEVafux7m3i5_E5KbrN_ZBvOfeh4oNp8uGR7vez2Z7mBCKHXcO2mdO-fOts11V8dXGGZzMmTvvjgbxTaUTKo=s0-d-e1-ft#http://www.creatic-agency.fr/signature-email/logo-creatic.png" alt="CREATIC-agency" width="300px" />
   <img src="https://www.univ-poitiers.fr/wp-content/uploads/sites/10/2021/10/logo-up.svg" alt="Université de Poitiers" width="200px">
   <div><br></div>
 </h1>
 
-<h3 align="center">💫 About Me: </h3>
+<h2 align="center">💫 About Me: </h2>
 <div><br></div>
 
 - 🔭 I’m currently working at **[Creatic Agency](https://www.creatic-agency.fr/)**
@@ -30,7 +22,7 @@
 
 
 <div><br></div>
-<h3 align="center">🌐 Socials: </h3>
+<h2 align="center">🌐 Socials: </h2>
 <div align="center">
 
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Théophile#8449)
@@ -41,7 +33,7 @@
 
 
 <div><br></div>
-<h3 align="center">💻 Tech Stack: </h3>
+<h2 align="center">💻 Tech Stack: </h2>
 <div><br></div>
 
 <div align="center">
@@ -65,7 +57,7 @@
 ---
 
 <div><br></div>
-<h3 align="center">📊 GitHub Stats:</h3>
+<h2 align="center">📊 GitHub Stats:</h2>
 <div><br></div>
 
 <div align="center">
@@ -79,7 +71,7 @@
 ---
 
 <div><br></div>
-<h3 align="center">😂 Random Dev Meme</h3>
+<h2 align="center">😂 Random Dev Meme</h2>
 <div><br></div>
 
 
