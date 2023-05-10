@@ -67,16 +67,7 @@
 
 </div>
 
----
 
-<div><br></div>
-<h3 align="center">😂 Random Dev Meme</h3>
-<div><br></div>
-
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px"/>
-<p>
 
 ---
 
