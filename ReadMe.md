@@ -6,16 +6,14 @@
 
 <h1 align="center" >
   <div><br></div>
-  <img src=https://ci5.googleusercontent.com/proxy/bCbVnx984GO2JlCRCPLxcKLeEVafux7m3i5_E5KbrN_ZBvOfeh4oNp8uGR7vez2Z7mBCKHXcO2mdO-fOts11V8dXGGZzMmTvvjgbxTaUTKo=s0-d-e1-ft#http://www.creatic-agency.fr/signature-email/logo-creatic.png" alt="CREATIC-agency" width="300px" />
-  <img src="https://www.univ-poitiers.fr/wp-content/uploads/sites/10/2021/10/logo-up.svg" alt="Université de Poitiers" width="200px">
+  <img src=https://www.serli.com/wp-content/themes/serli/dist/images/main-logo_48400369.png" alt="Serli" width="300px" />
   <div><br></div>
 </h1>
 
 <h3 align="center">💫 About Me: </h3>
 <div><br></div>
 
-- 🔭 I’m currently working at **[Creatic Agency](https://www.creatic-agency.fr/)**
-- 🌱 I’m currently learning **[Computer Science at the University of Poitiers](https://formations.univ-poitiers.fr/fr/index/master-XB/master-XB/master-informatique-JAJEEY0P/parcours-conception-logicielle-JAJEG53Q.html)**
+- 🔭 I’m currently working at **[Serli](https://www.serli.fr/)**
 - 💬 Ask me about **Web Development**
 - ⚡ Fun fact : "I'm not a robot" 🤖
 
